@@ -1,17 +1,22 @@
-Author: Drwangz
-aurax (Remote Shop)|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20EOD%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
-aurax mappartAutobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20MapPart%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
+AuraX Mappart|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/AuraX%20Mappart.DrDG
+AuraX Epaulet of the Dead B1F|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/AuraX%20Epaulet%20of%20the%20Dead%20B1F.DrDG
+AuraX illusion Castle World|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/AuraX%20illusion%20Castle%20World.DrDG
+AuraX Illusion Castle Underworld (Apocrypha)|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/AuraX%20Illusion%20Castle%20Underworld%20(Apocrypha).DrDG
+AuraX DX Chaos Arena 1|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/AuraX%20DX%20Chaos%20Arena%201.DrDG
+AuraX DXChaos Arena 7|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/AuraX%20DXChaos%20Arena%207.DrDG
+AuraX DXChaos Infinity|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/AuraX%20DXChaos%20Infinity.DrDG
+AuraX DX Eternal Chaos Arena|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/AuraX%20Eternal%20Chaos%20Arena.DrDG
+AuraX DX Awakened Hazardous Valley|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/AuraX%20DX%20Awakened%20Hazardous%20Valley.DrDG
+AuraX Labyrinth Partition|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/AuraX%20Labyrinth%20Partition.rar
 
-Helix (Remote Shop)|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20EOD%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG|claqua
-Helix mappartAutobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20MapPart%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
+Helix MapPart with Autobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/Helix%20MapPart%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
+Helix EOD with Autobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/Helix%20EOD%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
+Helix Volcanic Citadel with Autobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/Helix%20Volcanic%20Citadel%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
+Helix Altar of Siena B1F Secret Chest with Autobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/Helix%20Altar%20of%20Siena%20B1F%20Secret%20Chest%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
+Helix Chaos Arena 1 with Autobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/Helix%20Chaos%20Arena%201%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
 
-UltimateCombo (Remote Shop)|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20EOD%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
-UltimateCombo mappartAutobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20MapPart%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------
-Shared Customer Script
-Author: Julian
-123playcabal (Remote Shop)|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20EOD%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG|clorange
-wandulang mappartAutobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20MapPart%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG|clorange
------------------------------------------------------------------------------------------------------------------------------------------------------
+Ultimate Combo Sea MapPart|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/Ultimate%20Combo%20Sea%20MapPart.DrDG
+Ultimate Combo Seal Forgotten Temple B2F|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/Ultimate%20Combo%20Seal%20Forgotten%20Temple%20B2F%20script.DrDG
+Ultimate Combo Sea Maquinas Outpost|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/Ultimate%20Combo%20Sea%20Maquinas%20Outpost.DrDG
+Ultimate Combo Sea DX Chaos Arena 4|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/Ultimate%20Combo%20Sea%20Chaos%20Arena%204.DrDG
+Ultimate Combo Sea DX Chaos Arena 5|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/refs/heads/main/Ultimate%20Combo%20Sea%20Chaos%20Arena%205.DrDG
