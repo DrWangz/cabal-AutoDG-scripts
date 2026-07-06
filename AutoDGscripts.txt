@@ -1,12 +1,12 @@
 Author: Drwangz
-aurax (Remote Shop)|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20EOD%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
-aurax mappartAutobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20MapPart%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
+aurax (Remote Shop)|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20EOD%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG|clLime
+aurax mappartAutobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20MapPart%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG|clLime
 
-Helix (Remote Shop)|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20EOD%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
-Helix mappartAutobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20MapPart%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
+Helix (Remote Shop)|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20EOD%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG|claqua
+Helix mappartAutobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20MapPart%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG|claqua
 
-UltimateCombo (Remote Shop)|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20EOD%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
-UltimateCombo mappartAutobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20MapPart%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
+UltimateCombo (Remote Shop)|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20EOD%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG|clyellow
+UltimateCombo mappartAutobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20MapPart%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG|clyellow
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
