@@ -14,5 +14,5 @@ UltimateCombo mappartAutobuy Ntry Remote Shop|https://raw.githubusercontent.com/
 
 ===============================================================================================================================
 Author: Drwangz
-playcabal (Remote Shop)|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20EOD%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
-playcabal mappartAutobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20MapPart%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
+123playcabal (Remote Shop)|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20EOD%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
+p123laycabal mappartAutobuy Ntry Remote Shop|https://raw.githubusercontent.com/DrWangz/cabal-AutoDG-scripts/main/Helix%20MapPart%20with%20Autobuy%20Ntry%20Remote%20Shop.DrDG
